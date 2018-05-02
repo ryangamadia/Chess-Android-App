@@ -56,17 +56,17 @@ public class SquareAdapter extends BaseAdapter {
 			if (col == 0)
 			{
 				if (position%2 == 0)
-					v.setBackgroundColor(Color.parseColor("#DFAE74"));
+					v.setBackgroundColor(Color.parseColor("#FFFFFF"));
 				else
-					v.setBackgroundColor(Color.parseColor("#6B4226"));
+					v.setBackgroundColor(Color.parseColor("#A9A9A9"));
 			
 			}
 			else
 			{
 				if (position%2 == 0)
-					v.setBackgroundColor(Color.parseColor("#6B4226"));
+					v.setBackgroundColor(Color.parseColor("#A9A9A9"));
 				else
-					v.setBackgroundColor(Color.parseColor("#DFAE74"));
+					v.setBackgroundColor(Color.parseColor("#FFFFFF"));
 			}
 
 			//load images

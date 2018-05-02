@@ -4,8 +4,8 @@ ADDED from C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\Ch
 INJECTED from C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\Chess Android App\Chess\app\src\main\AndroidManifest.xml:2:1-47:12
 INJECTED from C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\Chess Android App\Chess\app\src\main\AndroidManifest.xml:2:1-47:12
 INJECTED from C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\Chess Android App\Chess\app\src\main\AndroidManifest.xml:2:1-47:12
-MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\Ryan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-22.2.1.aar\429b653dc7e53bad614ec472fe7bef23\AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Ryan\.gradle\caches\transforms-1\files-1.1\support-v4-22.2.1.aar\98ae5524cd85b2de77133d0a6fa90cad\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\Ryan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-22.2.1.aar\54c5d66e8bab48359483a9a41ac2f5dc\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Ryan\.gradle\caches\transforms-1\files-1.1\support-v4-22.2.1.aar\523b622218731987e39cea8da13a21c0\AndroidManifest.xml:17:1-24:12
 INJECTED from C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\Chess Android App\Chess\app\src\main\AndroidManifest.xml:2:1-47:12
 INJECTED from C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\Chess Android App\Chess\app\src\main\AndroidManifest.xml:2:1-47:12
 INJECTED from C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\Chess Android App\Chess\app\src\main\AndroidManifest.xml:2:1-47:12
@@ -27,10 +27,10 @@ uses-sdk
 ADDED from C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\Chess Android App\Chess\app\src\main\AndroidManifest.xml:7:5-9:41
 INJECTED from C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\Chess Android App\Chess\app\src\main\AndroidManifest.xml:7:5-9:41
 INJECTED from C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\Chess Android App\Chess\app\src\main\AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\Ryan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-22.2.1.aar\429b653dc7e53bad614ec472fe7bef23\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\Ryan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-22.2.1.aar\429b653dc7e53bad614ec472fe7bef23\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Ryan\.gradle\caches\transforms-1\files-1.1\support-v4-22.2.1.aar\98ae5524cd85b2de77133d0a6fa90cad\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Ryan\.gradle\caches\transforms-1\files-1.1\support-v4-22.2.1.aar\98ae5524cd85b2de77133d0a6fa90cad\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\Ryan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-22.2.1.aar\54c5d66e8bab48359483a9a41ac2f5dc\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\Ryan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-22.2.1.aar\54c5d66e8bab48359483a9a41ac2f5dc\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Ryan\.gradle\caches\transforms-1\files-1.1\support-v4-22.2.1.aar\523b622218731987e39cea8da13a21c0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Ryan\.gradle\caches\transforms-1\files-1.1\support-v4-22.2.1.aar\523b622218731987e39cea8da13a21c0\AndroidManifest.xml:20:5-43
 INJECTED from C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\Chess Android App\Chess\app\src\main\AndroidManifest.xml:7:5-9:41
 INJECTED from C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\Chess Android App\Chess\app\src\main\AndroidManifest.xml:7:5-9:41
 	android:targetSdkVersion
@@ -43,10 +43,10 @@ INJECTED from C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android
 		INJECTED from C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\Chess Android App\Chess\app\src\main\AndroidManifest.xml
 application
 ADDED from C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\Chess Android App\Chess\app\src\main\AndroidManifest.xml:11:5-45:19
-MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\Ryan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-22.2.1.aar\429b653dc7e53bad614ec472fe7bef23\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\Ryan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-22.2.1.aar\429b653dc7e53bad614ec472fe7bef23\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Ryan\.gradle\caches\transforms-1\files-1.1\support-v4-22.2.1.aar\98ae5524cd85b2de77133d0a6fa90cad\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Ryan\.gradle\caches\transforms-1\files-1.1\support-v4-22.2.1.aar\98ae5524cd85b2de77133d0a6fa90cad\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\Ryan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-22.2.1.aar\54c5d66e8bab48359483a9a41ac2f5dc\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\Ryan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-22.2.1.aar\54c5d66e8bab48359483a9a41ac2f5dc\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Ryan\.gradle\caches\transforms-1\files-1.1\support-v4-22.2.1.aar\523b622218731987e39cea8da13a21c0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Ryan\.gradle\caches\transforms-1\files-1.1\support-v4-22.2.1.aar\523b622218731987e39cea8da13a21c0\AndroidManifest.xml:22:5-20
 	android:label
 		ADDED from C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\Chess Android App\Chess\app\src\main\AndroidManifest.xml:14:9-41
 	android:icon

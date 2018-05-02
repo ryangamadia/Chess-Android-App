@@ -14,15 +14,17 @@
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
-        android:text="@string/welcome_text"
+        android:layout_marginTop="100dp"
+        android:text="Chess App"
         android:textAppearance="?android:attr/textAppearanceLarge" />
 
     <LinearLayout
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_below="@+id/chessLogo"
-        android:layout_marginTop="40dp"
-         android:layout_marginLeft="35dp" >
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginBottom="118dp"
+        android:layout_marginEnd="40dp">
 
         <Button
             android:id="@+id/playButton"
@@ -43,9 +45,9 @@
         android:id="@+id/chessLogo"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_below="@+id/welcomeText"
+        android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="42dp"
+        android:layout_marginTop="168dp"
         android:contentDescription="chess logo"
         android:src="@drawable/chesslogo" />
 
