@@ -6,22 +6,22 @@
     density="xhdpi"
     format="10"
     plugin-version="3.1.2"
-    timestamp="1525247796724"
+    timestamp="1525248205404"
     token="-6667096024093265703"
-    verifier="FULL_BUILD_REQUESTED" >
+    verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="5982" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="1153" />
+        duration="0" />
     <task
         name="verifier"
-        duration="858" />
+        duration="0" />
 
     <artifact
         location="C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\Chess Android App\Chess\app\build\intermediates\resources\instant-run\debug\resources-debug.apk"
@@ -30,16 +30,13 @@
         location="C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\Chess Android App\Chess\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
         type="SPLIT" />
     <artifact
-        location="C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\Chess Android App\Chess\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
-        type="SPLIT" />
-    <artifact
         location="C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\Chess Android App\Chess\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
         type="SPLIT" />
     <artifact
-        location="C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\Chess Android App\Chess\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+        location="C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\Chess Android App\Chess\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
         type="SPLIT" />
     <artifact
-        location="C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\Chess Android App\Chess\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+        location="C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\Chess Android App\Chess\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
         type="SPLIT" />
     <artifact
         location="C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\Chess Android App\Chess\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
@@ -48,13 +45,16 @@
         location="C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\Chess Android App\Chess\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
         type="SPLIT" />
     <artifact
+        location="C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\Chess Android App\Chess\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+        type="SPLIT" />
+    <artifact
         location="C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\Chess Android App\Chess\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
         type="SPLIT" />
     <artifact
-        location="C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\Chess Android App\Chess\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+        location="C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\Chess Android App\Chess\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
         type="SPLIT" />
     <artifact
-        location="C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\Chess Android App\Chess\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+        location="C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\Chess Android App\Chess\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
         type="SPLIT" />
     <artifact
         location="C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\Chess Android App\Chess\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
@@ -65,8 +65,8 @@
 
     <build
         build-mode="FULL"
-        timestamp="1525247796724"
-        verifier="FULL_BUILD_REQUESTED" >
+        timestamp="1525248205404"
+        verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\Chess Android App\Chess\app\build\intermediates\resources\instant-run\debug\resources-debug.apk"
             type="SPLIT" />
@@ -74,16 +74,13 @@
             location="C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\Chess Android App\Chess\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\Chess Android App\Chess\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
-            type="SPLIT" />
-        <artifact
             location="C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\Chess Android App\Chess\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\Chess Android App\Chess\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+            location="C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\Chess Android App\Chess\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\Chess Android App\Chess\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            location="C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\Chess Android App\Chess\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
             type="SPLIT" />
         <artifact
             location="C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\Chess Android App\Chess\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
@@ -92,13 +89,16 @@
             location="C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\Chess Android App\Chess\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
             type="SPLIT" />
         <artifact
+            location="C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\Chess Android App\Chess\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            type="SPLIT" />
+        <artifact
             location="C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\Chess Android App\Chess\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\Chess Android App\Chess\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+            location="C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\Chess Android App\Chess\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\Chess Android App\Chess\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+            location="C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\Chess Android App\Chess\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
             type="SPLIT" />
         <artifact
             location="C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\Chess Android App\Chess\app\build\intermediates\split-apk\debug\slices\slice_9.apk"

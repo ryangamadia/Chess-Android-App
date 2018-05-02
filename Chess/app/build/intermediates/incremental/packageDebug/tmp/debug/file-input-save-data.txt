@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Wed May 02 03:57:09 EDT 2018
+#Wed May 02 04:03:41 EDT 2018
 1.base=C\:\\Users\\Ryan\\Google Drive\\RU\\Senior Year\\Spring\\Soft Meth\\Android\\Chess Android App\\Chess\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\11
 2.path=classes.dex
 0.baseType=DIRECTORY
