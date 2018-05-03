@@ -5,24 +5,24 @@
     build-mode="COLD"
     density="xhdpi"
     format="10"
-    ir-eligibility="COMPATIBLE"
+    ir-eligibility="CLASS_ADDED"
     plugin-version="3.1.2"
-    timestamp="1525315507370"
+    timestamp="1525315904895"
     token="-6667096024093265703"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="1339" />
+        duration="1484" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="35" />
+        duration="249" />
     <task
         name="verifier"
-        duration="21" />
+        duration="158" />
 
     <artifact
         location="C:\Users\Ryan\Documents\chess-android-app\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
@@ -176,8 +176,8 @@
     </build>
     <build
         build-mode="COLD"
-        ir-eligibility="COMPATIBLE"
-        timestamp="1525315507370"
+        ir-eligibility="CLASS_ADDED"
+        timestamp="1525315904895"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="C:\Users\Ryan\Documents\chess-android-app\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
