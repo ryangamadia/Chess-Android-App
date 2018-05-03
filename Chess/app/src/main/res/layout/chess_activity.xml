@@ -38,9 +38,9 @@
 
         <Button
             android:id="@+id/undoButton"
-            android:layout_width="68dp"
+            android:layout_width="85dp"
             android:layout_height="wrap_content"
-            android:text="@string/undo_btn" />
+            android:text="Start Game" />
 
         <Button
             android:id="@+id/drawButton"

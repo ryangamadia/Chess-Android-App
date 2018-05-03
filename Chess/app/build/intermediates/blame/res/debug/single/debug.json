@@ -1,11 +1,11 @@
 [
     {
-        "merged": "C:\\Users\\Ryan\\Google Drive\\RU\\Senior Year\\Spring\\Soft Meth\\Android\\Chess Android App\\Chess\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_list_pressed_holo_light.9.png.flat",
-        "source": "C:\\Users\\Ryan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\54c5d66e8bab48359483a9a41ac2f5dc\\res\\drawable-mdpi\\abc_list_pressed_holo_light.9.png"
-    },
-    {
         "merged": "C:\\Users\\Ryan\\Google Drive\\RU\\Senior Year\\Spring\\Soft Meth\\Android\\Chess Android App\\Chess\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_abc_btn_radio_to_on_mtrl_000.png.flat",
         "source": "C:\\Users\\Ryan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\54c5d66e8bab48359483a9a41ac2f5dc\\res\\drawable-xxxhdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\Ryan\\Google Drive\\RU\\Senior Year\\Spring\\Soft Meth\\Android\\Chess Android App\\Chess\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\Ryan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\54c5d66e8bab48359483a9a41ac2f5dc\\res\\drawable-mdpi\\abc_list_pressed_holo_light.9.png"
     },
     {
         "merged": "C:\\Users\\Ryan\\Google Drive\\RU\\Senior Year\\Spring\\Soft Meth\\Android\\Chess Android App\\Chess\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ic_commit_search_api_mtrl_alpha.png.flat",
@@ -32,12 +32,12 @@
         "source": "C:\\Users\\Ryan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\54c5d66e8bab48359483a9a41ac2f5dc\\res\\drawable-xxhdpi\\abc_cab_background_top_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Ryan\\Google Drive\\RU\\Senior Year\\Spring\\Soft Meth\\Android\\Chess Android App\\Chess\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_blackbishop.png.flat",
-        "source": "C:\\Users\\Ryan\\Google Drive\\RU\\Senior Year\\Spring\\Soft Meth\\Android\\Chess Android App\\Chess\\app\\src\\main\\res\\drawable-hdpi\\blackbishop.png"
-    },
-    {
         "merged": "C:\\Users\\Ryan\\Google Drive\\RU\\Senior Year\\Spring\\Soft Meth\\Android\\Chess Android App\\Chess\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_chess_icon.png.flat",
         "source": "C:\\Users\\Ryan\\Google Drive\\RU\\Senior Year\\Spring\\Soft Meth\\Android\\Chess Android App\\Chess\\app\\src\\main\\res\\drawable-ldpi\\chess_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Ryan\\Google Drive\\RU\\Senior Year\\Spring\\Soft Meth\\Android\\Chess Android App\\Chess\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_blackbishop.png.flat",
+        "source": "C:\\Users\\Ryan\\Google Drive\\RU\\Senior Year\\Spring\\Soft Meth\\Android\\Chess Android App\\Chess\\app\\src\\main\\res\\drawable-hdpi\\blackbishop.png"
     },
     {
         "merged": "C:\\Users\\Ryan\\Google Drive\\RU\\Senior Year\\Spring\\Soft Meth\\Android\\Chess Android App\\Chess\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
@@ -48,12 +48,12 @@
         "source": "C:\\Users\\Ryan\\Google Drive\\RU\\Senior Year\\Spring\\Soft Meth\\Android\\Chess Android App\\Chess\\app\\src\\main\\res\\menu\\chess.xml"
     },
     {
-        "merged": "C:\\Users\\Ryan\\Google Drive\\RU\\Senior Year\\Spring\\Soft Meth\\Android\\Chess Android App\\Chess\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_textfield_activated_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\Ryan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\54c5d66e8bab48359483a9a41ac2f5dc\\res\\drawable-xxhdpi\\abc_textfield_activated_mtrl_alpha.9.png"
-    },
-    {
         "merged": "C:\\Users\\Ryan\\Google Drive\\RU\\Senior Year\\Spring\\Soft Meth\\Android\\Chess Android App\\Chess\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_btn_check_to_on_mtrl_015.png.flat",
         "source": "C:\\Users\\Ryan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\54c5d66e8bab48359483a9a41ac2f5dc\\res\\drawable-hdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\Ryan\\Google Drive\\RU\\Senior Year\\Spring\\Soft Meth\\Android\\Chess Android App\\Chess\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Ryan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\54c5d66e8bab48359483a9a41ac2f5dc\\res\\drawable-xxhdpi\\abc_textfield_activated_mtrl_alpha.9.png"
     },
     {
         "merged": "C:\\Users\\Ryan\\Google Drive\\RU\\Senior Year\\Spring\\Soft Meth\\Android\\Chess Android App\\Chess\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_text_cursor_mtrl_alpha.9.png.flat",
@@ -80,36 +80,36 @@
         "source": "C:\\Users\\Ryan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\54c5d66e8bab48359483a9a41ac2f5dc\\res\\layout\\abc_simple_dropdown_hint.xml"
     },
     {
-        "merged": "C:\\Users\\Ryan\\Google Drive\\RU\\Senior Year\\Spring\\Soft Meth\\Android\\Chess Android App\\Chess\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
-        "source": "C:\\Users\\Ryan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\54c5d66e8bab48359483a9a41ac2f5dc\\res\\drawable-ldrtl-xxxhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
-    },
-    {
         "merged": "C:\\Users\\Ryan\\Google Drive\\RU\\Senior Year\\Spring\\Soft Meth\\Android\\Chess Android App\\Chess\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_check_material.xml.flat",
         "source": "C:\\Users\\Ryan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\54c5d66e8bab48359483a9a41ac2f5dc\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ryan\\Google Drive\\RU\\Senior Year\\Spring\\Soft Meth\\Android\\Chess Android App\\Chess\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Ryan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\54c5d66e8bab48359483a9a41ac2f5dc\\res\\drawable-ldrtl-xxxhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
     },
     {
         "merged": "C:\\Users\\Ryan\\Google Drive\\RU\\Senior Year\\Spring\\Soft Meth\\Android\\Chess Android App\\Chess\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_item_material.xml.flat",
         "source": "C:\\Users\\Ryan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\54c5d66e8bab48359483a9a41ac2f5dc\\res\\layout\\select_dialog_item_material.xml"
     },
     {
-        "merged": "C:\\Users\\Ryan\\Google Drive\\RU\\Senior Year\\Spring\\Soft Meth\\Android\\Chess Android App\\Chess\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_list_pressed_holo_light.9.png.flat",
-        "source": "C:\\Users\\Ryan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\54c5d66e8bab48359483a9a41ac2f5dc\\res\\drawable-xxhdpi\\abc_list_pressed_holo_light.9.png"
+        "merged": "C:\\Users\\Ryan\\Google Drive\\RU\\Senior Year\\Spring\\Soft Meth\\Android\\Chess Android App\\Chess\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\Ryan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\54c5d66e8bab48359483a9a41ac2f5dc\\res\\drawable-hdpi\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
         "merged": "C:\\Users\\Ryan\\Google Drive\\RU\\Senior Year\\Spring\\Soft Meth\\Android\\Chess Android App\\Chess\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_abc_btn_check_to_on_mtrl_015.png.flat",
         "source": "C:\\Users\\Ryan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\54c5d66e8bab48359483a9a41ac2f5dc\\res\\drawable-xxxhdpi\\abc_btn_check_to_on_mtrl_015.png"
     },
     {
-        "merged": "C:\\Users\\Ryan\\Google Drive\\RU\\Senior Year\\Spring\\Soft Meth\\Android\\Chess Android App\\Chess\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
-        "source": "C:\\Users\\Ryan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\54c5d66e8bab48359483a9a41ac2f5dc\\res\\drawable-hdpi\\abc_spinner_mtrl_am_alpha.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Ryan\\Google Drive\\RU\\Senior Year\\Spring\\Soft Meth\\Android\\Chess Android App\\Chess\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_list_selector_disabled_holo_light.9.png.flat",
-        "source": "C:\\Users\\Ryan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\54c5d66e8bab48359483a9a41ac2f5dc\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_light.9.png"
+        "merged": "C:\\Users\\Ryan\\Google Drive\\RU\\Senior Year\\Spring\\Soft Meth\\Android\\Chess Android App\\Chess\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\Ryan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\54c5d66e8bab48359483a9a41ac2f5dc\\res\\drawable-xxhdpi\\abc_list_pressed_holo_light.9.png"
     },
     {
         "merged": "C:\\Users\\Ryan\\Google Drive\\RU\\Senior Year\\Spring\\Soft Meth\\Android\\Chess Android App\\Chess\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
         "source": "C:\\Users\\Ryan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\54c5d66e8bab48359483a9a41ac2f5dc\\res\\drawable-ldrtl-mdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Ryan\\Google Drive\\RU\\Senior Year\\Spring\\Soft Meth\\Android\\Chess Android App\\Chess\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\Ryan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\54c5d66e8bab48359483a9a41ac2f5dc\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_light.9.png"
     },
     {
         "merged": "C:\\Users\\Ryan\\Google Drive\\RU\\Senior Year\\Spring\\Soft Meth\\Android\\Chess Android App\\Chess\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ic_voice_search_api_mtrl_alpha.png.flat",
@@ -180,16 +180,16 @@
         "source": "C:\\Users\\Ryan\\Google Drive\\RU\\Senior Year\\Spring\\Soft Meth\\Android\\Chess Android App\\Chess\\app\\src\\main\\res\\drawable-hdpi\\blackrook.png"
     },
     {
-        "merged": "C:\\Users\\Ryan\\Google Drive\\RU\\Senior Year\\Spring\\Soft Meth\\Android\\Chess Android App\\Chess\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_abc_tab_indicator_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\Ryan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\54c5d66e8bab48359483a9a41ac2f5dc\\res\\drawable-xxxhdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+        "merged": "C:\\Users\\Ryan\\Google Drive\\RU\\Senior Year\\Spring\\Soft Meth\\Android\\Chess Android App\\Chess\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_checkbox.xml.flat",
+        "source": "C:\\Users\\Ryan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\54c5d66e8bab48359483a9a41ac2f5dc\\res\\layout\\abc_list_menu_item_checkbox.xml"
     },
     {
         "merged": "C:\\Users\\Ryan\\Google Drive\\RU\\Senior Year\\Spring\\Soft Meth\\Android\\Chess Android App\\Chess\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_list_pressed_holo_light.9.png.flat",
         "source": "C:\\Users\\Ryan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\54c5d66e8bab48359483a9a41ac2f5dc\\res\\drawable-hdpi\\abc_list_pressed_holo_light.9.png"
     },
     {
-        "merged": "C:\\Users\\Ryan\\Google Drive\\RU\\Senior Year\\Spring\\Soft Meth\\Android\\Chess Android App\\Chess\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_checkbox.xml.flat",
-        "source": "C:\\Users\\Ryan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\54c5d66e8bab48359483a9a41ac2f5dc\\res\\layout\\abc_list_menu_item_checkbox.xml"
+        "merged": "C:\\Users\\Ryan\\Google Drive\\RU\\Senior Year\\Spring\\Soft Meth\\Android\\Chess Android App\\Chess\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Ryan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\54c5d66e8bab48359483a9a41ac2f5dc\\res\\drawable-xxxhdpi\\abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
         "merged": "C:\\Users\\Ryan\\Google Drive\\RU\\Senior Year\\Spring\\Soft Meth\\Android\\Chess Android App\\Chess\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_search_dropdown_item_icons_2line.xml.flat",
