@@ -1,4 +1,4 @@
-#Wed May 02 22:07:57 EDT 2018
-base.0=C\:\\Users\\Ryan\\Google Drive\\RU\\Senior Year\\Spring\\Soft Meth\\Android\\ChessAndroidApp\\Chess Android App\\Chess\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\3
+#Wed May 02 22:43:22 EDT 2018
+base.0=C\:\\Users\\Ryan\\Documents\\chess-android-app\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\3
 path.0=classes.dex
 renamed.0=classes.dex

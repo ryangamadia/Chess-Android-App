@@ -5,33 +5,27 @@
     build-mode="COLD"
     density="xhdpi"
     format="10"
-    ir-eligibility="CLASS_ADDED"
+    ir-eligibility="COMPATIBLE"
     plugin-version="3.1.2"
-    timestamp="1525314101336"
+    timestamp="1525315507370"
     token="-6667096024093265703"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="1391" />
+        duration="1339" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="260" />
+        duration="35" />
     <task
         name="verifier"
-        duration="144" />
+        duration="21" />
 
     <artifact
-        location="C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\ChessAndroidApp\Chess Android App\Chess\app\build\intermediates\resources\instant-run\debug\resources-debug.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\ChessAndroidApp\Chess Android App\Chess\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\ChessAndroidApp\Chess Android App\Chess\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+        location="C:\Users\Ryan\Documents\chess-android-app\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
         type="SPLIT" />
 
     <build
@@ -136,6 +130,57 @@
             type="SPLIT" />
         <artifact
             location="C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\ChessAndroidApp\Chess Android App\Chess\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            type="SPLIT" />
+    </build>
+    <build
+        build-mode="COLD"
+        ir-eligibility="COMPATIBLE"
+        timestamp="1525315376650"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="C:\Users\Ryan\Documents\chess-android-app\app\build\intermediates\resources\instant-run\debug\resources-debug.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\Ryan\Documents\chess-android-app\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\Ryan\Documents\chess-android-app\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\Ryan\Documents\chess-android-app\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\Ryan\Documents\chess-android-app\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\Ryan\Documents\chess-android-app\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\Ryan\Documents\chess-android-app\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\Ryan\Documents\chess-android-app\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\Ryan\Documents\chess-android-app\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\Ryan\Documents\chess-android-app\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\Ryan\Documents\chess-android-app\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\Ryan\Documents\chess-android-app\app\build\intermediates\instant-run-apk\debug\app-debug.apk"
+            type="SPLIT_MAIN" />
+    </build>
+    <build
+        build-mode="COLD"
+        ir-eligibility="COMPATIBLE"
+        timestamp="1525315507370"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="C:\Users\Ryan\Documents\chess-android-app\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
             type="SPLIT" />
     </build>
 

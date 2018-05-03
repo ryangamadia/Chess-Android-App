@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Ryan\\Google Drive\\RU\\Senior Year\\Spring\\Soft Meth\\Android\\ChessAndroidApp\\Chess Android App\\Chess\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Users\\Ryan\\Documents\\chess-android-app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Ryan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\54c5d66e8bab48359483a9a41ac2f5dc\\res\\values\\values.xml",
@@ -23,41 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Ryan\\Google Drive\\RU\\Senior Year\\Spring\\Soft Meth\\Android\\ChessAndroidApp\\Chess Android App\\Chess\\app\\src\\main\\res\\values\\strings.xml",
-                    "from": {
-                        "startLines": "5,12,3,17,13,4,20,9,10,21,11,14,8,6,7,19,15,18,16",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "152,533,56,754,571,99,927,395,445,969,487,613,338,205,268,862,659,807,701",
-                        "endColumns": "52,37,42,52,41,52,41,49,41,45,45,45,56,62,69,64,41,54,52",
-                        "endOffsets": "200,566,94,802,608,147,964,440,482,1010,528,654,390,263,333,922,696,857,749"
-                    },
-                    "to": {
-                        "startLines": "203,204,205,206,207,208,209,210,211,212,213,214,215,217,218,219,220,221,222",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "27184,27237,27275,27318,27371,27413,27466,27508,27558,27600,27646,27692,27738,27866,27929,27999,28064,28106,28161",
-                        "endColumns": "52,37,42,52,41,52,41,49,41,45,45,45,56,62,69,64,41,54,52",
-                        "endOffsets": "27232,27270,27313,27366,27408,27461,27503,27553,27595,27641,27687,27733,27790,27924,27994,28059,28101,28156,28209"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Ryan\\Google Drive\\RU\\Senior Year\\Spring\\Soft Meth\\Android\\ChessAndroidApp\\Chess Android App\\Chess\\app\\src\\main\\res\\values\\colors.xml",
-                    "from": {
-                        "startLines": "3,5,9,4,6,8,2,7,12,10,11",
-                        "startColumns": "4,4,4,4,4,4,4,4,1,4,1",
-                        "startOffsets": "95,176,356,133,222,308,57,266,485,403,444",
-                        "endColumns": "36,44,45,41,42,46,36,40,37,42,39",
-                        "endOffsets": "127,216,397,170,260,350,89,302,521,441,482"
-                    },
-                    "to": {
-                        "startLines": "13,14,15,16,17,18,19,20,31,69,70",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "720,757,802,848,890,933,980,1017,1770,4476,4519",
-                        "endColumns": "36,44,45,41,42,46,36,40,40,42,42",
-                        "endOffsets": "752,797,843,885,928,975,1012,1053,1806,4514,4557"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Ryan\\Google Drive\\RU\\Senior Year\\Spring\\Soft Meth\\Android\\ChessAndroidApp\\Chess Android App\\Chess\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "C:\\Users\\Ryan\\Documents\\chess-android-app\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "6,15",
                         "startColumns": "4,4",
@@ -76,7 +42,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Ryan\\Google Drive\\RU\\Senior Year\\Spring\\Soft Meth\\Android\\ChessAndroidApp\\Chess Android App\\Chess\\app\\src\\main\\res\\values\\dimens.xml",
+                    "source": "C:\\Users\\Ryan\\Documents\\chess-android-app\\app\\src\\main\\res\\values\\dimens.xml",
                     "from": {
                         "startLines": "3,4",
                         "startColumns": "4,4",
@@ -90,6 +56,40 @@
                         "startOffsets": "24398,24456",
                         "endColumns": "57,55",
                         "endOffsets": "24451,24507"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Ryan\\Documents\\chess-android-app\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "5,12,3,17,13,4,20,9,10,21,11,14,8,6,7,19,15,18,16",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "152,533,56,754,571,99,927,395,445,969,487,613,338,205,268,862,659,807,701",
+                        "endColumns": "52,37,42,52,41,52,41,49,41,45,45,45,56,62,69,64,41,54,52",
+                        "endOffsets": "200,566,94,802,608,147,964,440,482,1010,528,654,390,263,333,922,696,857,749"
+                    },
+                    "to": {
+                        "startLines": "203,204,205,206,207,208,209,210,211,212,213,214,215,217,218,219,220,221,222",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "27184,27237,27275,27318,27371,27413,27466,27508,27558,27600,27646,27692,27738,27866,27929,27999,28064,28106,28161",
+                        "endColumns": "52,37,42,52,41,52,41,49,41,45,45,45,56,62,69,64,41,54,52",
+                        "endOffsets": "27232,27270,27313,27366,27408,27461,27503,27553,27595,27641,27687,27733,27790,27924,27994,28059,28101,28156,28209"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Ryan\\Documents\\chess-android-app\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "3,5,9,4,6,8,2,7,12,10,11",
+                        "startColumns": "4,4,4,4,4,4,4,4,1,4,1",
+                        "startOffsets": "95,176,356,133,222,308,57,266,485,403,444",
+                        "endColumns": "36,44,45,41,42,46,36,40,37,42,39",
+                        "endOffsets": "127,216,397,170,260,350,89,302,521,441,482"
+                    },
+                    "to": {
+                        "startLines": "13,14,15,16,17,18,19,20,31,69,70",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "720,757,802,848,890,933,980,1017,1770,4476,4519",
+                        "endColumns": "36,44,45,41,42,46,36,40,40,42,42",
+                        "endOffsets": "752,797,843,885,928,975,1012,1053,1806,4514,4557"
                     }
                 }
             ]

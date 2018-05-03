@@ -1,101 +1,101 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\ChessAndroidApp\Chess Android App\Chess\app\src\main\AndroidManifest.xml:2:1-47:12
-INJECTED from C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\ChessAndroidApp\Chess Android App\Chess\app\src\main\AndroidManifest.xml:2:1-47:12
-INJECTED from C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\ChessAndroidApp\Chess Android App\Chess\app\src\main\AndroidManifest.xml:2:1-47:12
-INJECTED from C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\ChessAndroidApp\Chess Android App\Chess\app\src\main\AndroidManifest.xml:2:1-47:12
+ADDED from C:\Users\Ryan\Documents\chess-android-app\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\Ryan\Documents\chess-android-app\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\Ryan\Documents\chess-android-app\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\Ryan\Documents\chess-android-app\app\src\main\AndroidManifest.xml:2:1-47:12
 MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\Ryan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-22.2.1.aar\54c5d66e8bab48359483a9a41ac2f5dc\AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Ryan\.gradle\caches\transforms-1\files-1.1\support-v4-22.2.1.aar\523b622218731987e39cea8da13a21c0\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\ChessAndroidApp\Chess Android App\Chess\app\src\main\AndroidManifest.xml:2:1-47:12
-INJECTED from C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\ChessAndroidApp\Chess Android App\Chess\app\src\main\AndroidManifest.xml:2:1-47:12
-INJECTED from C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\ChessAndroidApp\Chess Android App\Chess\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\Ryan\Documents\chess-android-app\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\Ryan\Documents\chess-android-app\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\Ryan\Documents\chess-android-app\app\src\main\AndroidManifest.xml:2:1-47:12
 	package
-		ADDED from C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\ChessAndroidApp\Chess Android App\Chess\app\src\main\AndroidManifest.xml:3:5-40
-		INJECTED from C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\ChessAndroidApp\Chess Android App\Chess\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\ChessAndroidApp\Chess Android App\Chess\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ryan\Documents\chess-android-app\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from C:\Users\Ryan\Documents\chess-android-app\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ryan\Documents\chess-android-app\app\src\main\AndroidManifest.xml
 	android:versionName
-		ADDED from C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\ChessAndroidApp\Chess Android App\Chess\app\src\main\AndroidManifest.xml:5:5-30
-		INJECTED from C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\ChessAndroidApp\Chess Android App\Chess\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\ChessAndroidApp\Chess Android App\Chess\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ryan\Documents\chess-android-app\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\Ryan\Documents\chess-android-app\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ryan\Documents\chess-android-app\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\ChessAndroidApp\Chess Android App\Chess\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\Ryan\Documents\chess-android-app\app\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
-		ADDED from C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\ChessAndroidApp\Chess Android App\Chess\app\src\main\AndroidManifest.xml:4:5-28
-		INJECTED from C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\ChessAndroidApp\Chess Android App\Chess\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\ChessAndroidApp\Chess Android App\Chess\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ryan\Documents\chess-android-app\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\Ryan\Documents\chess-android-app\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ryan\Documents\chess-android-app\app\src\main\AndroidManifest.xml
 uses-sdk
-ADDED from C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\ChessAndroidApp\Chess Android App\Chess\app\src\main\AndroidManifest.xml:7:5-9:41
-INJECTED from C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\ChessAndroidApp\Chess Android App\Chess\app\src\main\AndroidManifest.xml:7:5-9:41
-INJECTED from C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\ChessAndroidApp\Chess Android App\Chess\app\src\main\AndroidManifest.xml:7:5-9:41
+ADDED from C:\Users\Ryan\Documents\chess-android-app\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\Ryan\Documents\chess-android-app\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\Ryan\Documents\chess-android-app\app\src\main\AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\Ryan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-22.2.1.aar\54c5d66e8bab48359483a9a41ac2f5dc\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\Ryan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-22.2.1.aar\54c5d66e8bab48359483a9a41ac2f5dc\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Ryan\.gradle\caches\transforms-1\files-1.1\support-v4-22.2.1.aar\523b622218731987e39cea8da13a21c0\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Ryan\.gradle\caches\transforms-1\files-1.1\support-v4-22.2.1.aar\523b622218731987e39cea8da13a21c0\AndroidManifest.xml:20:5-43
-INJECTED from C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\ChessAndroidApp\Chess Android App\Chess\app\src\main\AndroidManifest.xml:7:5-9:41
-INJECTED from C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\ChessAndroidApp\Chess Android App\Chess\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\Ryan\Documents\chess-android-app\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\Ryan\Documents\chess-android-app\app\src\main\AndroidManifest.xml:7:5-9:41
 	android:targetSdkVersion
-		ADDED from C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\ChessAndroidApp\Chess Android App\Chess\app\src\main\AndroidManifest.xml:9:9-38
-		INJECTED from C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\ChessAndroidApp\Chess Android App\Chess\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\ChessAndroidApp\Chess Android App\Chess\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ryan\Documents\chess-android-app\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from C:\Users\Ryan\Documents\chess-android-app\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ryan\Documents\chess-android-app\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\ChessAndroidApp\Chess Android App\Chess\app\src\main\AndroidManifest.xml:8:9-35
-		INJECTED from C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\ChessAndroidApp\Chess Android App\Chess\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\ChessAndroidApp\Chess Android App\Chess\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ryan\Documents\chess-android-app\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from C:\Users\Ryan\Documents\chess-android-app\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ryan\Documents\chess-android-app\app\src\main\AndroidManifest.xml
 application
-ADDED from C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\ChessAndroidApp\Chess Android App\Chess\app\src\main\AndroidManifest.xml:11:5-45:19
+ADDED from C:\Users\Ryan\Documents\chess-android-app\app\src\main\AndroidManifest.xml:11:5-45:19
 MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\Ryan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-22.2.1.aar\54c5d66e8bab48359483a9a41ac2f5dc\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\Ryan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-22.2.1.aar\54c5d66e8bab48359483a9a41ac2f5dc\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Ryan\.gradle\caches\transforms-1\files-1.1\support-v4-22.2.1.aar\523b622218731987e39cea8da13a21c0\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Ryan\.gradle\caches\transforms-1\files-1.1\support-v4-22.2.1.aar\523b622218731987e39cea8da13a21c0\AndroidManifest.xml:22:5-20
 	android:label
-		ADDED from C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\ChessAndroidApp\Chess Android App\Chess\app\src\main\AndroidManifest.xml:14:9-41
+		ADDED from C:\Users\Ryan\Documents\chess-android-app\app\src\main\AndroidManifest.xml:14:9-41
 	android:icon
-		ADDED from C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\ChessAndroidApp\Chess Android App\Chess\app\src\main\AndroidManifest.xml:13:9-44
+		ADDED from C:\Users\Ryan\Documents\chess-android-app\app\src\main\AndroidManifest.xml:13:9-44
 	android:allowBackup
-		ADDED from C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\ChessAndroidApp\Chess Android App\Chess\app\src\main\AndroidManifest.xml:12:9-35
+		ADDED from C:\Users\Ryan\Documents\chess-android-app\app\src\main\AndroidManifest.xml:12:9-35
 	android:theme
-		ADDED from C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\ChessAndroidApp\Chess Android App\Chess\app\src\main\AndroidManifest.xml:15:9-40
+		ADDED from C:\Users\Ryan\Documents\chess-android-app\app\src\main\AndroidManifest.xml:15:9-40
 activity#com.CS213.androidchess101.HomeActivity
-ADDED from C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\ChessAndroidApp\Chess Android App\Chess\app\src\main\AndroidManifest.xml:16:9-24:20
+ADDED from C:\Users\Ryan\Documents\chess-android-app\app\src\main\AndroidManifest.xml:16:9-24:20
 	android:label
-		ADDED from C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\ChessAndroidApp\Chess Android App\Chess\app\src\main\AndroidManifest.xml:18:13-45
+		ADDED from C:\Users\Ryan\Documents\chess-android-app\app\src\main\AndroidManifest.xml:18:13-45
 	android:name
-		ADDED from C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\ChessAndroidApp\Chess Android App\Chess\app\src\main\AndroidManifest.xml:17:13-41
+		ADDED from C:\Users\Ryan\Documents\chess-android-app\app\src\main\AndroidManifest.xml:17:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\ChessAndroidApp\Chess Android App\Chess\app\src\main\AndroidManifest.xml:19:13-23:29
+ADDED from C:\Users\Ryan\Documents\chess-android-app\app\src\main\AndroidManifest.xml:19:13-23:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\ChessAndroidApp\Chess Android App\Chess\app\src\main\AndroidManifest.xml:20:17-69
+ADDED from C:\Users\Ryan\Documents\chess-android-app\app\src\main\AndroidManifest.xml:20:17-69
 	android:name
-		ADDED from C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\ChessAndroidApp\Chess Android App\Chess\app\src\main\AndroidManifest.xml:20:25-66
+		ADDED from C:\Users\Ryan\Documents\chess-android-app\app\src\main\AndroidManifest.xml:20:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\ChessAndroidApp\Chess Android App\Chess\app\src\main\AndroidManifest.xml:22:17-77
+ADDED from C:\Users\Ryan\Documents\chess-android-app\app\src\main\AndroidManifest.xml:22:17-77
 	android:name
-		ADDED from C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\ChessAndroidApp\Chess Android App\Chess\app\src\main\AndroidManifest.xml:22:27-74
+		ADDED from C:\Users\Ryan\Documents\chess-android-app\app\src\main\AndroidManifest.xml:22:27-74
 activity#com.CS213.androidchess101.ChessActivity
-ADDED from C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\ChessAndroidApp\Chess Android App\Chess\app\src\main\AndroidManifest.xml:25:9-32:20
+ADDED from C:\Users\Ryan\Documents\chess-android-app\app\src\main\AndroidManifest.xml:25:9-32:20
 	android:parentActivityName
-		ADDED from C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\ChessAndroidApp\Chess Android App\Chess\app\src\main\AndroidManifest.xml:28:13-55
+		ADDED from C:\Users\Ryan\Documents\chess-android-app\app\src\main\AndroidManifest.xml:28:13-55
 	android:label
-		ADDED from C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\ChessAndroidApp\Chess Android App\Chess\app\src\main\AndroidManifest.xml:27:13-57
+		ADDED from C:\Users\Ryan\Documents\chess-android-app\app\src\main\AndroidManifest.xml:27:13-57
 	android:name
-		ADDED from C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\ChessAndroidApp\Chess Android App\Chess\app\src\main\AndroidManifest.xml:26:13-42
+		ADDED from C:\Users\Ryan\Documents\chess-android-app\app\src\main\AndroidManifest.xml:26:13-42
 meta-data#android.support.PARENT_ACTIVITY
-ADDED from C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\ChessAndroidApp\Chess Android App\Chess\app\src\main\AndroidManifest.xml:29:13-31:74
+ADDED from C:\Users\Ryan\Documents\chess-android-app\app\src\main\AndroidManifest.xml:29:13-31:74
 	android:value
-		ADDED from C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\ChessAndroidApp\Chess Android App\Chess\app\src\main\AndroidManifest.xml:31:17-71
+		ADDED from C:\Users\Ryan\Documents\chess-android-app\app\src\main\AndroidManifest.xml:31:17-71
 	android:name
-		ADDED from C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\ChessAndroidApp\Chess Android App\Chess\app\src\main\AndroidManifest.xml:30:17-63
+		ADDED from C:\Users\Ryan\Documents\chess-android-app\app\src\main\AndroidManifest.xml:30:17-63
 activity#com.CS213.androidchess101.GameListActivity
-ADDED from C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\ChessAndroidApp\Chess Android App\Chess\app\src\main\AndroidManifest.xml:33:9-40:20
+ADDED from C:\Users\Ryan\Documents\chess-android-app\app\src\main\AndroidManifest.xml:33:9-40:20
 	android:parentActivityName
-		ADDED from C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\ChessAndroidApp\Chess Android App\Chess\app\src\main\AndroidManifest.xml:36:13-55
+		ADDED from C:\Users\Ryan\Documents\chess-android-app\app\src\main\AndroidManifest.xml:36:13-55
 	android:label
-		ADDED from C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\ChessAndroidApp\Chess Android App\Chess\app\src\main\AndroidManifest.xml:35:13-61
+		ADDED from C:\Users\Ryan\Documents\chess-android-app\app\src\main\AndroidManifest.xml:35:13-61
 	android:name
-		ADDED from C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\ChessAndroidApp\Chess Android App\Chess\app\src\main\AndroidManifest.xml:34:13-45
+		ADDED from C:\Users\Ryan\Documents\chess-android-app\app\src\main\AndroidManifest.xml:34:13-45
 activity#com.CS213.androidchess101.ReplayActivity
-ADDED from C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\ChessAndroidApp\Chess Android App\Chess\app\src\main\AndroidManifest.xml:41:9-44:20
+ADDED from C:\Users\Ryan\Documents\chess-android-app\app\src\main\AndroidManifest.xml:41:9-44:20
 	android:label
-		ADDED from C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\ChessAndroidApp\Chess Android App\Chess\app\src\main\AndroidManifest.xml:43:13-58
+		ADDED from C:\Users\Ryan\Documents\chess-android-app\app\src\main\AndroidManifest.xml:43:13-58
 	android:name
-		ADDED from C:\Users\Ryan\Google Drive\RU\Senior Year\Spring\Soft Meth\Android\ChessAndroidApp\Chess Android App\Chess\app\src\main\AndroidManifest.xml:42:13-43
+		ADDED from C:\Users\Ryan\Documents\chess-android-app\app\src\main\AndroidManifest.xml:42:13-43

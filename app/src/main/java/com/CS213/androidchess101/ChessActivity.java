@@ -57,7 +57,6 @@ public class ChessActivity extends ActionBarActivity implements OnItemClickListe
 		if (!RUN_ONCE) {
 
 			RUN_ONCE = true;
-			recordGame();
 			this.game = new Game();
 			squaresSelected = new View[2];
 			squarePositions = new int[2];
